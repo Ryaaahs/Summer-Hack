@@ -7,8 +7,6 @@ SearchTheSummerAway generates different summer activities to get you moving and 
 
 # Design Document: https://docs.google.com/document/d/1UaLGsKrlpvI5VCtpff5IJx9rnM1LFxbFgiHsfvM-Tuc/edit?usp=sharing
 # Devpost Page: https://devpost.com/software/searchthesummeraway
-# Website: http://www.searchthesummeraway.tech/about.html
-
 
 Created by:     
 Reily Maahs    
